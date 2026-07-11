@@ -43,10 +43,10 @@ CALENDAR = [
 ]
 FEED_INFO = [
     {
-        "feed_publisher_name": "singapore-travel-time-map (built from primary data)",
-        "feed_publisher_url": "https://github.com/Vorld/singapore-travel-time-map",
+        "feed_publisher_name": "singapore-gtfs (built from primary data)",
+        "feed_publisher_url": "https://github.com/Vorld/singapore-gtfs",
         "feed_lang": "en",
-        "feed_version": "2026-07-06",
+        "feed_version": "2026-07-12",
     }
 ]
 
