@@ -6,8 +6,8 @@ readme = "README.md"
 license = { text = "MIT" }
 requires-python = ">=3.12"
 # The geo stack is pinned exactly: coordinate formatting in stops.txt depends
-# on it, and tests/test_output_manifest.py asserts byte-identical output.
-# Relax the pins only together with a deliberate manifest regeneration.
+# on it, so bumping a pin can change the built feed byte-for-byte.
+# Relax the pins only together with a deliberate check of the feed output.
 dependencies = [
     "geopandas==1.1.4",
     "shapely==2.1.2",

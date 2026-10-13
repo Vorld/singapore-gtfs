@@ -2,7 +2,7 @@
 
 An unofficial GTFS feed for Singapore's public transport network: every MRT
 and LRT line (184 stations, including the CCL6 stations that opened in July
-2026) and every bus service (about 5,200 stops and 615 routes).
+2026) and every bus service (about 5,200 stops and 601 services).
 
 I built this feed because I couldn't find any others of high enough quality.
 Issues with other Singapore GTFS sources included missing stations, missing transfer times, 
